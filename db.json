@@ -1,16 +1,19 @@
 {
-  "posts":[
+  "posts": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "text": "Leer algo",
+      "state": "pending",
+      "id": 1
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "text": "Hacer ejercicio",
+      "state": "pending",
+      "id": 3
+    },
+    {
+      "text": "Oe",
+      "state": "pending",
+      "id": 4
     }
   ]
 }
